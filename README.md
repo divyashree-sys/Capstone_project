@@ -1,2 +1,2 @@
-# Capstone_project
+# My_project
 E-commerce Analysis
